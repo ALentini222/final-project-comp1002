@@ -1,0 +1,28 @@
+/*page colouring*/
+html{
+    background-color:black;
+}
+h1{
+    color:limegreen;
+}
+h2{
+    color:yellow;
+}
+h3{
+    color:limegreen;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+li{
+    color:white;
+}
+/*page positioning*/
+main{
+    position:relative;
+    padding-top:150px;
+    padding-left:25px;
+}

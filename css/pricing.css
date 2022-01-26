@@ -1,0 +1,38 @@
+/*page colouring*/
+html{
+    background-color:black;
+}
+h1{
+    color:limegreen;
+}
+h2{
+    color:yellow;
+}
+h3{
+    color:limegreen;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+li{
+    color:white;
+}
+/*pricing*/
+/*page positioning*/
+main{
+    position:relative;
+    padding-top:175px;
+    padding-left:25px;
+}
+body main article p{
+    position:relative;
+    padding-left:25px;
+    top:100px;
+}
+body main article h2{
+    position:relative;
+    padding-left:25px;
+}

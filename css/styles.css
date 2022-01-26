@@ -1,0 +1,55 @@
+/*page colouring*/
+html{
+    background-color:black;
+}
+h1{
+    color:limegreen;
+}
+h2{
+    color:yellow;
+}
+h3{
+    color:limegreen;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+li{
+    color:white;
+}
+
+/*Index*/
+/*page positioning*/
+body main{
+    position:relative;
+    padding-left:25px;
+    padding-top:150px;
+}
+body header h2{
+    position:absolute;
+    text-align:left;
+    top:225px;
+    padding-left:25px;
+}
+
+body main section{
+    position:absolute;
+    left:1em;
+    padding-left:25px;
+    top:275px;
+}
+/*image 1 on index
+main section article figure
+    left with text on the right of it
+*/
+body main figure img{
+    position:absolute;
+    right:1em;
+}
+footer{
+    position:absolute;
+    bottom:1em;
+}

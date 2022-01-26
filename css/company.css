@@ -1,0 +1,79 @@
+/*page colouring*/
+html{
+    background-color:black;
+}
+h1{
+    color:limegreen;
+}
+h2{
+    color:yellow;
+}
+h3{
+    color:limegreen;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+li{
+    color:white;
+}
+/*page positioning*/
+h1{
+    position:absolute;
+    padding-left:25px;
+    padding-top:100px;
+}
+body main{
+    position:relative;
+    padding-left:25px;
+    padding-top:150px;
+}
+body main aside article h2{
+    position: relative;;
+    padding-left:25px;
+    top:75px;
+}
+body main aside article section h2{
+    position: relative;;
+    padding-left:25px;
+    top:100px;
+}
+body main aside article section p{
+    position:relative;
+    padding-left:10px;
+    top:100px;
+} 
+/*image 1 on company
+main article section figure
+    image on rightabove text in place of the page title*/
+main aside article section figure img{
+    position:relative;
+    padding-left:10;
+   top:100px;
+}
+main aside article div h2{
+    position: relative;;
+    padding-left:25px;
+    top:125px;
+}
+main aside article div p{
+    position:relative;
+    padding-left:25px;
+    top:175px;
+}
+/*image 2 on company
+main aside figure
+    image on rightabove text in place of the page title
+*/
+main aside article div figure img{
+    position:relative;
+    padding-left:25px;
+    top:175px;
+}
+footer{
+    position:relative;
+    top:200px;
+}

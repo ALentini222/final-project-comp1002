@@ -1,0 +1,35 @@
+/*page colouring*/
+html{
+    background-color:black;
+}
+h1{
+    color:limegreen;
+}
+h2{
+    color:yellow;
+}
+h3{
+    color:limegreen;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+li{
+    color:white;
+}
+/*gameplay*/
+/*page positioning*/
+body main{
+    position:relative;
+    padding-left:25px;
+    padding-top:150px;
+}
+main article section p{
+    position:relative;
+    bottom:825px;
+    padding-left:600px;
+    padding-right:100px
+}
